@@ -1,2 +1,2 @@
 # abc
-program in python
+print("Python Hello.py")
